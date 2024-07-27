@@ -2,7 +2,7 @@ import React from 'react'
 
 const New = () => {
   return (
-    <div>New world order</div>
+    <div>New world order CA</div>
   )
 }
 
